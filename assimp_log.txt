@@ -1,0 +1,11 @@
+Info,  T0: Load models/ak-47/Adding/AK.obj
+Info,  T0: Found a matching importer for this file format
+Info,  T0: Import root directory is 'models/ak-47/Adding/'
+Info,  T0: Entering post processing pipeline
+Info,  T0: Points: 0, Lines: 0, Triangles: 59, Polygons: 0 (Meshes, X = removed)
+Error, T0: Failed to compute tangents; need UV data in channel0
+Skipping one or more lines with the same contents
+Info,  T0: CalcTangentsProcess finished. Tangents have been calculated
+Info,  T0: JoinVerticesProcess finished | Verts in: 22509 out: 7757 | ~65.5%
+Info,  T0: Cache relevant are 1 meshes (6691 faces). Average output ACMR is 1.180242
+Info,  T0: Leaving post processing pipeline
